@@ -1,7 +1,7 @@
 {
-  "AdsEnable": false,
-  "InterMenu": "ca-app-pub-3940256099942544/1033173712",
-  "InterPerSpawnItem": "ca-app-pub-3940256099942544/1033173712",
-  "InterForItem": "ca-app-pub-3940256099942544/1033173712",
+  "AdsEnable": true,
+  "InterMenu": "ca-app-pub-5495953097699198/2816686639",
+  "InterPerSpawnItem": "ca-app-pub-5495953097699198/4357037000",
+  "InterForItem": "ca-app-pub-5495953097699198/2820556060",
   "ShowInterPerItem": 8
 }
